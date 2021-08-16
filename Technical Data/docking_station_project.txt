@@ -1,0 +1,10 @@
+HP Thunderbolt Dock Project
+---------------------------
+
+Info: https://support.hp.com/us-en/document/c05913756#AbT3
+Dimensions: 99.06mm x 99.06mm x 68.58mm (3.9in x 3.9in x 2.7in)
+
+3D Models:
+	https://www.prusaprinters.org/prints/31917-hp-thunderbolt-dock-cover/files
+	https://www.thingiverse.com/thing:4843424
+	
